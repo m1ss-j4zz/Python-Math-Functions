@@ -1,6 +1,6 @@
 [project]
-name = "Python Math Functions"
-version = "0.1.0"
+name = "pymathfuncts"
+version = "0.1.1"
 description = "Math Functions Not In Base Python"
 authors = [{ name = "Jaz"}]
 readme = "README.md"

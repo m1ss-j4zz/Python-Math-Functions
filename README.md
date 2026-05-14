@@ -1,1 +1,1 @@
-# Python-Math-Functions
+# pymathfuncts
